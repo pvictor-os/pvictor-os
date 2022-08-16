@@ -29,10 +29,13 @@
 
 ###
 
+<div align="center">
 
+![snake gif](https://github.com/pvictor-os/pvictor-os/blob/output/github-contribution-grid-snake.gif)
 
+</div>
   
-  ![Snake animation](https://github.com/pvictor-os/pvictor-os/blob/output/github-contribution-grid-snake.svg)
+
   
 
 
