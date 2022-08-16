@@ -30,8 +30,10 @@
 ###
 
 
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/pvictor-os/pvictor-os/blob/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  
+  ![Snake animation](https://github.com/pvictor-os/pvictor-os/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
 ###
